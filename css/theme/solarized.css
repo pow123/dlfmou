@@ -19,7 +19,7 @@ body {
   background-color: #fffcf4; }
 
 .reveal {
-  font-family: "Lantinghei TC", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 36px;
   font-weight: normal;
   color: #2c3160; }
@@ -44,8 +44,8 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #586e75;
-  font-family: "League Gothic", Impact, sans-serif;
+  color: #2c3160;
+  font-family: "League Gothic", sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
